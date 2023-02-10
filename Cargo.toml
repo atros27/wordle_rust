@@ -1,0 +1,13 @@
+[package]
+name = "wordle"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+derivative = "2.2.0"
+dictionary = "0.1.0"
+femtovg = "0.3.0"
+glutin = "0.28.0"
+lazy_static = "1.4.0"
